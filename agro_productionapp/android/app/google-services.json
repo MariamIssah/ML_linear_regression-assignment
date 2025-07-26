@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515757418596",
+    "project_id": "agroproductionapp",
+    "storage_bucket": "agroproductionapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515757418596:android:831a2c72649c7816715771",
+        "android_client_info": {
+          "package_name": "com.example.agro_productionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQHP9-m4OiKTXrg8VifiCug1N0J-SJpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
