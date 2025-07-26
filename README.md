@@ -29,7 +29,7 @@ A publicly accessible API endpoint returns predicted production based on the fol
 * `Area` (in hectares)
 
 > **Note**: The API is hosted at:
-> ** [Swagger UI](https://ml-linear-regression-assignment.onrender.com/predict)**
+> ** [Swagger UI](https://ml-linear-regression-assignment.onrender.com/docs)**
 
 Accessible via Swagger UI for testing.
 
